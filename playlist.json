@@ -1,22 +1,23 @@
 [
   {
     "name": "Bunny_13s.mp4",
-    "downloadUrl": "",
+    "downloadUrl": "https://github.com/cangunaydin/maui_test/raw/main/Bunny_13s.mp4",
     "type":"video"
   },
   {
-    "name": "",
-    "downloadUrl": "",
+    "name": "World_29s.mp4",
+    "downloadUrl": "https://github.com/cangunaydin/maui_test/raw/main/World_29s.mp4",
     "type":"video"
   },
   {
-    "name": "",
-    "downloadUrl": "",
-    "type":"image"
+    "name": "Image.jpg",
+    "downloadUrl": "https://github.com/cangunaydin/maui_test/raw/main/Image.jpg",
+    "type":"image",
+    "duration": 5000
   },
   {
-    "name": "",
-    "downloadUrl": "",
+    "name": "Trailer_52s.avi",
+    "downloadUrl": "https://github.com/cangunaydin/maui_test/raw/main/Trailer_52s.avi",
     "type":"video"
   }
 ]
