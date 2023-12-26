@@ -1,14 +1,19 @@
 [
   {
     "name": "Bunny_13s.mp4",
-    "downloadUrl": "https://github.com/cangunaydin/maui_test/raw/main/Bunny_13s.mp4",
+    "downloadUrl": "https://lemon-island-079dcf403.4.azurestaticapps.net/Bunny_13s.mp4",
     "type":1
   },
   {
     "name": "Image.jpg",
-    "downloadUrl": "https://github.com/cangunaydin/maui_test/raw/main/Image.jpg",
+    "downloadUrl": "https://lemon-island-079dcf403.4.azurestaticapps.net/Image.jpg",
     "type":2,
     "duration": 10000
+  },
+  {
+    "name": "World_29s.mp4",
+    "downloadUrl": "https://lemon-island-079dcf403.4.azurestaticapps.net/World_29s.mp4",
+    "type":1
   }
  
 ]
